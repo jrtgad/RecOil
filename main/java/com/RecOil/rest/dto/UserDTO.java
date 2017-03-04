@@ -1,6 +1,6 @@
 package com.RecOil.rest.dto;
 
-import com.RecOil.repositories.User;
+import com.RecOil.clases.User;
 
 public class UserDTO {
 	private String id;

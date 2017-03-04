@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.RecOil.repositories.User;
+import com.RecOil.clases.User;
 import com.RecOil.repositories.UserRepository;
 
 @RunWith(SpringRunner.class)

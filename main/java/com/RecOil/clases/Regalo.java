@@ -1,4 +1,4 @@
-package com.RecOil.repositories;
+package com.RecOil.clases;
 
 import java.io.Serializable;
 

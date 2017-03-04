@@ -1,4 +1,4 @@
-package com.RecOil.repositories;
+package com.RecOil.clases;
 
 public class Promocion {
 	private String _id;
